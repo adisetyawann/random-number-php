@@ -1,0 +1,19 @@
+{
+    "name": "adi/random-number-php",
+    "description": "Random number generator with php",
+    "type": "library",
+    "license": "free",
+    "autoload": {
+        "psr-4": {
+            "RandomNumber\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "adisetyawan",
+            "email": "ggmild55@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
